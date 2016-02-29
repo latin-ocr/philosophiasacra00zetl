@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiasacra00zetl_0065.png"; bbox 0 0 1888 2584; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 272 262 1403 2218">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 272 262 1403 2218">
+     <span class='ocr_line' id='line_1_1' title="bbox 272 262 1403 2218; baseline 0 -43"><span class='ocrx_word' id='word_1_1' title='bbox 272 262 1403 2218; x_wconf 95' lang='lat' dir='ltr'><em>     </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1191 2070 1403 2175">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1191 2070 1403 2175">
+     <span class='ocr_line' id='line_1_2' title="bbox 1191 2070 1403 2175; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1191 2070 1403 2175; x_wconf 95' lang='lat' dir='ltr'><em>  </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 657 2095 1338 2216">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 657 2095 1338 2216">
+     <span class='ocr_line' id='line_1_3' title="bbox 657 2095 1338 2216; baseline -0.003 -24.772"><span class='ocrx_word' id='word_1_3' title='bbox 657 2097 878 2191; x_wconf 42' lang='grc' dir='ltr'><em>ἥξω</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 815 2124 855 2147; x_wconf 62' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 831 2095 1338 2216; x_wconf 49' lang='lat' dir='ltr'><em>{AEfflarmw</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

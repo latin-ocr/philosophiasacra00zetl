@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiasacra00zetl_0125.png"; bbox 0 0 1888 2584; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 389 353 1520 2188">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 389 353 1520 2188">
+     <span class='ocr_line' id='line_1_1' title="bbox 389 353 1520 2188; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 389 353 1520 2188; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 951 2157 1126 2166">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 951 2157 1126 2166">
+     <span class='ocr_line' id='line_1_2' title="bbox 951 2157 1126 2166; baseline 0 418"><span class='ocrx_word' id='word_1_2' title='bbox 951 2157 1126 2166; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 440 2171 1469 2310">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 440 2171 1469 2310">
+     <span class='ocr_line' id='line_1_3' title="bbox 440 2171 1469 2248; baseline -0.028 -3"><span class='ocrx_word' id='word_1_3' title='bbox 440 2201 509 2245; x_wconf 59' lang='lat' dir='ltr'><em>{D-</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 530 2185 791 2242; x_wconf 54' lang='lat' dir='ltr'><em>Stanaelaas</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 817 2207 923 2248; x_wconf 25' lang='lat' dir='ltr'><strong><em>‘acce</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 935 2188 1023 2245; x_wconf 57' lang='lat' dir='ltr'><em>fit&amp;</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1053 2177 1211 2236; x_wconf 58' lang='lat' dir='ltr'><em>[derzssr</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1233 2171 1382 2230; x_wconf 9' lang='lat' dir='ltr'><em>”Dewmle</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1392 2183 1469 2217; x_wconf 60' lang='grc' dir='ltr'><em>ναΐ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 659 2231 1313 2310; baseline -0.034 -19"><span class='ocrx_word' id='word_1_10' title='bbox 659 2239 930 2310; x_wconf 41' lang='grc' dir='ltr'><em>,θῆτΐνωυῆιι</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 959 2241 1246 2283; x_wconf 71' lang='lat' dir='ltr'><em>caeatatem,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1283 2231 1313 2254; x_wconf 76' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

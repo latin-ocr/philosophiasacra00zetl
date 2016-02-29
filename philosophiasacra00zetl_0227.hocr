@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiasacra00zetl_0227.png"; bbox 0 0 1888 2584; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 254 300 1378 2240">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 254 300 1378 2240">
+     <span class='ocr_line' id='line_1_1' title="bbox 254 300 1378 2240; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 254 300 1378 2240; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 431 2156 1213 2261">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 431 2156 1213 2261">
+     <span class='ocr_line' id='line_1_2' title="bbox 431 2156 1213 2212; baseline 0.003 -6"><span class='ocrx_word' id='word_1_2' title='bbox 431 2157 983 2212; x_wconf 60' lang='lat' dir='ltr'><em>.m1zt&lt;&#39;5[ausffol0nu</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1015 2161 1067 2208; x_wconf 69' lang='grc' dir='ltr'><em>ι’νι</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1095 2156 1213 2208; x_wconf 69' lang='lat' dir='ltr'><em>ballo</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 471 2211 1162 2261; baseline -0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 471 2226 641 2258; x_wconf 59' lang='lat' dir='ltr'><em>sema</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 669 2211 780 2261; x_wconf 57' lang='lat' dir='ltr'><em>ff!</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 771 2233 862 2259; x_wconf 72' lang='lat' dir='ltr'><em>cas·</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 898 2211 1062 2259; x_wconf 57' lang='lat' dir='ltr'><em>siccem</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1052 2217 1162 2257; x_wconf 59' lang='lat' dir='ltr'><em>ru?</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1060 2359 1089 2439">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1060 2359 1089 2439">
+     <span class='ocr_line' id='line_1_4' title="bbox 1060 2359 1089 2439; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 1061 2410 1089 2439; x_wconf 45' lang='lat' dir='ltr'><em>,J</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1060 2359 1081 2396; x_wconf 54' lang='lat' dir='ltr'><em>gn*</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
